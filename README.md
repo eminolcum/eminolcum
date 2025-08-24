@@ -80,10 +80,10 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminolcum&show_icons=true&locale=en&layout=compact&theme=github_dark"" alt="sahinalp" />
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahinalp&count_private=true&show_icons=trueline_height=21&theme=github_dark" alt="sahinalp">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminolcum&count_private=true&show_icons=trueline_height=21&theme=github_dark" alt="sahinalp">
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahinalp&theme=holi-theme">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminolcum&theme=holi-theme">
 </p>
 
 
