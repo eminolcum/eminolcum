@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 
-- 👨🏽‍💻 I hold an MSc in Computer Engineering from Ege University.
-- 🌱 I’m currently developing Data Science projects.
-- 🤔 My interest lies in Data Science, Machine Learning, Deep Learning, Big Data, Cybersecurity, Blockchain
+- 👨🏽‍💻 I hold an MSc in Aerospace from Technical University of Munich.
+- 🌱 I’m currently developing Aerospace related projects.
+- 🤔 My interest lies in CFD simulations, Structural Analysis, CAD Design
 
 
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!-- <br> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahinalp&show_icons=true&locale=en&layout=compact&theme=github_dark"" alt="sahinalp" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminolcum&show_icons=true&locale=en&layout=compact&theme=github_dark"" alt="sahinalp" />
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahinalp&count_private=true&show_icons=trueline_height=21&theme=github_dark" alt="sahinalp">
